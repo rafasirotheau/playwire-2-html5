@@ -3,7 +3,7 @@ Playwire-2-HTML5 é um userscript que substitui os players de vídeo do Playwire
 
 ## Versão
 
-0.9.0
+0.9.5
 
 ## Changelog
 
